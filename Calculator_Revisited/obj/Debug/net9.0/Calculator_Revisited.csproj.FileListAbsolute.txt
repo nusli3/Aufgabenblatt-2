@@ -1,0 +1,14 @@
+C:\Users\linus\Documents\FH\Programmieren - GPM\Calculator_Revisited\obj\Debug\net9.0\Calculator_Revisited.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linus\Documents\FH\Programmieren - GPM\Calculator_Revisited\obj\Debug\net9.0\Calculator_Revisited.AssemblyInfoInputs.cache
+C:\Users\linus\Documents\FH\Programmieren - GPM\Calculator_Revisited\obj\Debug\net9.0\Calculator_Revisited.AssemblyInfo.cs
+C:\Users\linus\Documents\FH\Programmieren - GPM\Calculator_Revisited\obj\Debug\net9.0\Calculator_Revisited.csproj.CoreCompileInputs.cache
+C:\Users\linus\Documents\FH\Programmieren - GPM\Calculator_Revisited\bin\Debug\net9.0\Calculator_Revisited.exe
+C:\Users\linus\Documents\FH\Programmieren - GPM\Calculator_Revisited\bin\Debug\net9.0\Calculator_Revisited.deps.json
+C:\Users\linus\Documents\FH\Programmieren - GPM\Calculator_Revisited\bin\Debug\net9.0\Calculator_Revisited.runtimeconfig.json
+C:\Users\linus\Documents\FH\Programmieren - GPM\Calculator_Revisited\bin\Debug\net9.0\Calculator_Revisited.dll
+C:\Users\linus\Documents\FH\Programmieren - GPM\Calculator_Revisited\bin\Debug\net9.0\Calculator_Revisited.pdb
+C:\Users\linus\Documents\FH\Programmieren - GPM\Calculator_Revisited\obj\Debug\net9.0\Calculator_Revisited.dll
+C:\Users\linus\Documents\FH\Programmieren - GPM\Calculator_Revisited\obj\Debug\net9.0\refint\Calculator_Revisited.dll
+C:\Users\linus\Documents\FH\Programmieren - GPM\Calculator_Revisited\obj\Debug\net9.0\Calculator_Revisited.pdb
+C:\Users\linus\Documents\FH\Programmieren - GPM\Calculator_Revisited\obj\Debug\net9.0\Calculator_Revisited.genruntimeconfig.cache
+C:\Users\linus\Documents\FH\Programmieren - GPM\Calculator_Revisited\obj\Debug\net9.0\ref\Calculator_Revisited.dll

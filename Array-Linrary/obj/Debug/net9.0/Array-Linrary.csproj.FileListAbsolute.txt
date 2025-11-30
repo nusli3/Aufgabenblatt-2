@@ -1,0 +1,14 @@
+C:\Users\linus\Documents\FH\Programmieren - GPM\Array-Linrary\bin\Debug\net9.0\Array-Linrary.exe
+C:\Users\linus\Documents\FH\Programmieren - GPM\Array-Linrary\bin\Debug\net9.0\Array-Linrary.deps.json
+C:\Users\linus\Documents\FH\Programmieren - GPM\Array-Linrary\bin\Debug\net9.0\Array-Linrary.runtimeconfig.json
+C:\Users\linus\Documents\FH\Programmieren - GPM\Array-Linrary\bin\Debug\net9.0\Array-Linrary.dll
+C:\Users\linus\Documents\FH\Programmieren - GPM\Array-Linrary\bin\Debug\net9.0\Array-Linrary.pdb
+C:\Users\linus\Documents\FH\Programmieren - GPM\Array-Linrary\obj\Debug\net9.0\Array-Linrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linus\Documents\FH\Programmieren - GPM\Array-Linrary\obj\Debug\net9.0\Array-Linrary.AssemblyInfoInputs.cache
+C:\Users\linus\Documents\FH\Programmieren - GPM\Array-Linrary\obj\Debug\net9.0\Array-Linrary.AssemblyInfo.cs
+C:\Users\linus\Documents\FH\Programmieren - GPM\Array-Linrary\obj\Debug\net9.0\Array-Linrary.csproj.CoreCompileInputs.cache
+C:\Users\linus\Documents\FH\Programmieren - GPM\Array-Linrary\obj\Debug\net9.0\Array-Linrary.dll
+C:\Users\linus\Documents\FH\Programmieren - GPM\Array-Linrary\obj\Debug\net9.0\refint\Array-Linrary.dll
+C:\Users\linus\Documents\FH\Programmieren - GPM\Array-Linrary\obj\Debug\net9.0\Array-Linrary.pdb
+C:\Users\linus\Documents\FH\Programmieren - GPM\Array-Linrary\obj\Debug\net9.0\Array-Linrary.genruntimeconfig.cache
+C:\Users\linus\Documents\FH\Programmieren - GPM\Array-Linrary\obj\Debug\net9.0\ref\Array-Linrary.dll
